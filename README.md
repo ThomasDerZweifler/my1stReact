@@ -1,4 +1,11 @@
-EXPO (tools, eas)
+
+---- Git push an existing repository from the command line
+git remote add origin https://github.com/ThomasDerZweifler/my1stReact.git
+git branch -M main
+git push -u origin main
+
+
+---- EXPO (tools, eas)
 
 https://docs.expo.dev/
 
